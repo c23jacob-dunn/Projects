@@ -11,7 +11,7 @@ def func(num):
             numRuns = 0
         func(num)
 
-for a in range(1000000000000000000000):
+for a in range(1000000000000000000000000000000):
     numRuns = 0
     a += 1
     func(a)
