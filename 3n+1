@@ -15,5 +15,3 @@ for a in range(1000000000000000000000):
     numRuns = 0
     a += 1
     func(a)
-
-s = 'hello'
