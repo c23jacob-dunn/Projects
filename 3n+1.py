@@ -7,7 +7,6 @@ def func(num):
     if num != 1:
         numRuns += 1
         if numRuns > 1000:
-            print(a)
             numRuns = 0
         func(num)
 
