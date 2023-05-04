@@ -1,0 +1,108 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.38.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Jacob Dunn, Oakland University, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.38.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.19
+Assembler:       Armasm.exe V6.19
+Linker/Locator:  ArmLink.exe V6.19
+Library Manager: ArmAr.exe V6.19
+Hex Converter:   FromElf.exe V6.19
+CPU DLL:         SARMCM3.DLL V5.38.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.6.0
+Target DLL:      CMSIS_AGDI.dll V1.33.15.0
+Dialog DLL:      TARMCM1.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+C:\Users\Jacob\Documents\School\Winter 2023\ECE4721\Labs\Lab4\ECE5721_Lab4_J_Dunn\Part2\Part2.uvprojx
+Project File Date:  03/31/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.19', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+Rebuild target 'CMSIS-DAP'
+assembling startup_MKL25Z4.s...
+compiling system_MKL25Z4.c...
+compiling Part2.c...
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(40): warning: no previous extern declaration for non-static variable 'led_pin' [-Wmissing-variable-declarations]
+const uint32_t led_pin[]  = {        18,         19,          1};
+               ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(40): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+const uint32_t led_pin[]  = {        18,         19,          1};
+      ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(41): warning: no previous extern declaration for non-static variable 'led_port' [-Wmissing-variable-declarations]
+const uint32_t led_port[] = {PORTB_BASE, PORTB_BASE, PORTD_BASE};
+               ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(41): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+const uint32_t led_port[] = {PORTB_BASE, PORTB_BASE, PORTD_BASE};
+      ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(42): warning: no previous extern declaration for non-static variable 'led_gpio' [-Wmissing-variable-declarations]
+const uint32_t led_gpio[] = {GPIOB_BASE, GPIOB_BASE, GPIOD_BASE};
+               ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(42): note: declare 'static' if the variable is not intended to be used outside of this translation unit
+const uint32_t led_gpio[] = {GPIOB_BASE, GPIOB_BASE, GPIOD_BASE};
+      ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(133): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+      LED_On (i);
+      ~~~~~~  ^
+C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c(135): warning: implicit conversion changes signedness: 'int' to 'uint32_t' (aka 'unsigned int') [-Wsign-conversion]
+      LED_Off(i);
+      ~~~~~~~ ^
+5 warnings generated.
+compiling LED_FRDM-KL25Z.c...
+linking...
+Program Size: Code=1400 RO-data=296 RW-data=24 ZI-data=368  
+".\Objects\Part2.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.Kinetis_KLxx_DFP.1.15.0.pack
+                Keil.Kinetis_KLxx_DFP.1.15.0
+                NXP Kinetis KLxx Series Device Support and Examples
+   * Component: LED Version: 1.0.0
+   * Component: Startup Version: 2.5.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.MDK-Middleware.7.16.0.pack
+                Keil.MDK-Middleware.7.16.0
+                Middleware for Keil MDK-Professional and MDK-Plus
+   * Component: LED Version: 1.0.0
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/Device/MKL25Z128xxx4
+  ./RTE/_CMSIS-DAP
+  C:/Users/Jacob/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+  C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include
+  C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/MDK-Middleware/7.16.0/Board
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ::Board Support:LED:1.0.0 (API)
+      Include file:  Board/Board_LED.h
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+
+   * Component: Keil.FRDM-KL25Z::Board Support:LED:1.0.0
+      Source file:   Boards/NXP/FRDM-KL25Z/Common/LED_FRDM-KL25Z.c
+
+   * Component: Keil::Device:Startup:2.5.0
+      Source file:   Device/Source/system_MKL25Z4.c
+      Source file:   Device/Source/ARM/startup_MKL25Z4.s
+      Include file:  Device/Source/system_MKL25Z4.h
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>

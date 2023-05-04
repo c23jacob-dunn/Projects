@@ -1,0 +1,102 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.38.0.0
+Copyright (C) 2022 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: Jacob Dunn, Oakland University, LIC=----
+ 
+Tool Versions:
+Toolchain:       MDK-Lite  Version: 5.38.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCLANG\Bin
+C Compiler:      ArmClang.exe V6.19
+Assembler:       Armasm.exe V6.19
+Linker/Locator:  ArmLink.exe V6.19
+Library Manager: ArmAr.exe V6.19
+Hex Converter:   FromElf.exe V6.19
+CPU DLL:         SARMCM3.DLL V5.38.0.0
+Dialog DLL:      DARMCM1.DLL V1.19.6.0
+Target DLL:      CMSIS_AGDI.dll V1.33.15.0
+Dialog DLL:      TARMCM1.DLL V1.14.6.0
+ 
+<h2>Project:</h2>
+C:\Users\Jacob\Documents\School\Winter 2023\ECE4721\Labs\Lab4\ECE5721_Lab4_J_Dunn\Part1\Part1.uvprojx
+Project File Date:  03/29/2023
+
+<h2>Output:</h2>
+*** Using Compiler 'V6.19', folder: 'C:\Keil_v5\ARM\ARMCLANG\Bin'
+Rebuild target 'CMSIS-DAP'
+assembling startup_MKL25Z4.s...
+compiling system_MKL25Z4.c...
+Part1.c(152): warning: implicit conversion loses floating-point precision: 'double' to 'float' [-Wimplicit-float-conversion]
+        thermVolt = n*(3.3/(pow(2,16)-1)); //CHANGE TO WHATEVER THAT OTHER VALUE WAS?
+                  ~ ~^~~~~~~~~~~~~~~~~~~~
+Part1.c(152): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        thermVolt = n*(3.3/(pow(2,16)-1)); //CHANGE TO WHATEVER THAT OTHER VALUE WAS?
+                    ^~
+Part1.c(155): warning: implicit conversion loses floating-point precision: 'double' to 'float' [-Wimplicit-float-conversion]
+        thermRes = r1*((3.3/thermVolt)-1); //CHANGE REF VOLTAGE?
+                 ~ ~~^~~~~~~~~~~~~~~~~~~~
+Part1.c(155): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        thermRes = r1*((3.3/thermVolt)-1); //CHANGE REF VOLTAGE?
+                           ~^~~~~~~~~
+Part1.c(155): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        thermRes = r1*((3.3/thermVolt)-1); //CHANGE REF VOLTAGE?
+                   ^~~
+Part1.c(159): warning: implicit conversion loses floating-point precision: 'double' to 'float' [-Wimplicit-float-conversion]
+        temp = (1/(3.354016E-03) + (2.909670E-04*log(thermRes/1000)) + (1.632136E-06*(pow(log(thermRes/1000), 2))) + (7.192200E-08*(pow(log(thermRes/1000), 3))));
+             ~  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Part1.c(159): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        temp = (1/(3.354016E-03) + (2.909670E-04*log(thermRes/1000)) + (1.632136E-06*(pow(log(thermRes/1000), 2))) + (7.192200E-08*(pow(log(thermRes/1000), 3))));
+                                                                                                                                        ~~~ ~~~~~~~~^~~~~
+Part1.c(159): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        temp = (1/(3.354016E-03) + (2.909670E-04*log(thermRes/1000)) + (1.632136E-06*(pow(log(thermRes/1000), 2))) + (7.192200E-08*(pow(log(thermRes/1000), 3))));
+                                                                                          ~~~ ~~~~~~~~^~~~~
+Part1.c(159): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        temp = (1/(3.354016E-03) + (2.909670E-04*log(thermRes/1000)) + (1.632136E-06*(pow(log(thermRes/1000), 2))) + (7.192200E-08*(pow(log(thermRes/1000), 3))));
+                                                 ~~~ ~~~~~~~~^~~~~
+Part1.c(163): warning: implicit conversion loses floating-point precision: 'double' to 'float' [-Wimplicit-float-conversion]
+        temp = temp - 273.15;
+             ~ ~~~~~^~~~~~~~
+Part1.c(163): warning: implicit conversion increases floating-point precision: 'float' to 'double' [-Wdouble-promotion]
+        temp = temp - 273.15;
+               ^~~~ ~
+11 warnings generated.
+compiling Part1.c...
+linking...
+Program Size: Code=11428 RO-data=604 RW-data=0 ZI-data=360  
+".\Objects\Part1.axf" - 0 Error(s), 11 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.9.0.pack
+                ARM.CMSIS.5.9.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.6.0
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.Kinetis_KLxx_DFP.1.15.0.pack
+                Keil.Kinetis_KLxx_DFP.1.15.0
+                NXP Kinetis KLxx Series Device Support and Examples
+   * Component: Startup Version: 2.5.0
+
+<h2>Collection of Component include folders:</h2>
+  ./RTE/Device/MKL25Z128xxx4
+  ./RTE/_CMSIS-DAP
+  C:/Users/Jacob/AppData/Local/Arm/Packs/ARM/CMSIS/5.9.0/CMSIS/Core/Include
+  C:/Users/Jacob/AppData/Local/Arm/Packs/Keil/Kinetis_KLxx_DFP/1.15.0/Device/Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.6.0
+
+   * Component: Keil::Device:Startup:2.5.0
+      Source file:   Device/Source/ARM/startup_MKL25Z4.s
+      Source file:   Device/Source/system_MKL25Z4.c
+      Include file:  Device/Source/system_MKL25Z4.h
+Build Time Elapsed:  00:00:01
+</pre>
+</body>
+</html>
