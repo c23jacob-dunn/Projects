@@ -1,0 +1,12 @@
+Each positive even integer n>=4 can be written as the sum of exactly 2 positive prime numbers:
+
+n	P1	+	P2
+4	2	+	2
+6	3	+	3
+8	3	+	5
+10	5	+	5
+12	5	+	7
+...
+
+Currently holds true for all even integers less than 4x10^18
+Counterexample will be an even integer n>=4*10^18
