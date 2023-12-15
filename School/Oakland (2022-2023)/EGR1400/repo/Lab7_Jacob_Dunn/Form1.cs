@@ -49,7 +49,7 @@ namespace Lab7_Jacob_Dunn
         {
             string dictData, palData;
             //int[] arrayDict = new int[26], arrayPal = new int[26];
-            StreamReader dict = File.OpenText(@"C:\Users\Jacob\Documents\Fall 2022\EGR1400\Lab Handouts\LAB7\dict.txt");
+            StreamReader dict = File.OpenText(@"C:\Users\jdunn\Documents\git\Projects\School\Oakland (2022-2023)\EGR1400\Lab Handouts\LAB7\dict.txt");
             if(dict == null)
             {
                 lstAnagrams.Text = "Failed to open dict file";
@@ -61,7 +61,7 @@ namespace Lab7_Jacob_Dunn
                 int[] arrayDict = new int[26];
                 Histo.Histogram.CreateHistogram(arrayDict, dictData);
 
-                StreamReader pal = File.OpenText(@"C:\Users\Jacob\Documents\Fall 2022\EGR1400\Lab Handouts\LAB7\pal.txt");
+                StreamReader pal = File.OpenText(@"C:\Users\jdunn\Documents\git\Projects\School\Oakland (2022-2023)\EGR1400\Lab Handouts\LAB7\pal.txt");
                 if (pal == null)
                 {
                     lstAnagrams.Text = "Failed to open dict file";

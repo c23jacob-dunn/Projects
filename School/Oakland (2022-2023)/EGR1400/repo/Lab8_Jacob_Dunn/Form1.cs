@@ -70,7 +70,7 @@ namespace Lab8_Jacob_Dunn
 
         private void btnAnalyze_Click(object sender, EventArgs e)
         {
-            XElement hospital = XElement.Load(@"C:\Users\Jacob\Documents\Fall 2022\EGR1400\Lab Handouts\LAB8\BloodTests.xml");
+            XElement hospital = XElement.Load(@"C:\Users\jdunn\Documents\git\Projects\School\Oakland (2022-2023)\EGR1400\Lab Handouts\LAB8\BloodTests.xml");
 
             var bloodTests = from testResult in hospital.Descendants("BloodTests")
                              let patientID = testResult.Element("PatientID").Value
