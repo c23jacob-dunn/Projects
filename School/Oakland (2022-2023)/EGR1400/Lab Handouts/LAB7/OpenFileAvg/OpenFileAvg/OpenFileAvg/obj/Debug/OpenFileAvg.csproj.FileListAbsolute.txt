@@ -1,0 +1,9 @@
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\bin\Debug\OpenFileAvg.exe.config
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\bin\Debug\OpenFileAvg.exe
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\bin\Debug\OpenFileAvg.pdb
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.csprojResolveAssemblyReference.cache
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.Form1.resources
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.Properties.Resources.resources
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.csproj.GenerateResource.Cache
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.exe
+c:\users\siadat\documents\visual studio 2017\Projects\OpenFileAvg\OpenFileAvg\obj\Debug\OpenFileAvg.pdb

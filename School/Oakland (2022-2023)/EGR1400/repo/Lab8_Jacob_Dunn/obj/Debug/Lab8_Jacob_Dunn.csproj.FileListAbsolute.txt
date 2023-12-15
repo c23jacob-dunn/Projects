@@ -1,0 +1,12 @@
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\bin\Debug\MedicalRecords1400.mdb
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\bin\Debug\Lab8_Jacob_Dunn.exe.config
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\bin\Debug\Lab8_Jacob_Dunn.exe
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\bin\Debug\Lab8_Jacob_Dunn.pdb
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.csproj.AssemblyReference.cache
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.Form1.resources
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.Properties.Resources.resources
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.csproj.GenerateResource.cache
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.exe
+C:\Users\Jacob\Documents\Fall 2022\EGR1400\repo\Lab8_Jacob_Dunn\obj\Debug\Lab8_Jacob_Dunn.pdb

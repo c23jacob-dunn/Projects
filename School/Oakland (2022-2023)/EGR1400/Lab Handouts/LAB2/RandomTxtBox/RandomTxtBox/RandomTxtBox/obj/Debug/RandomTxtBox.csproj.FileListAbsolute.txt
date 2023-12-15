@@ -1,0 +1,9 @@
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.csprojResolveAssemblyReference.cache
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.Form1.resources
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.Properties.Resources.resources
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.csproj.GenerateResource.Cache
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\bin\Debug\RandomTxtBox.exe.config
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\bin\Debug\RandomTxtBox.exe
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\bin\Debug\RandomTxtBox.pdb
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.exe
+c:\users\siadat\documents\visual studio 2017\Projects\RandomTxtBox\RandomTxtBox\obj\Debug\RandomTxtBox.pdb

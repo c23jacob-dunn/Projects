@@ -1,0 +1,11 @@
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\bin\Debug\PS04_Caden_Jacob.exe.config
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\bin\Debug\PS04_Caden_Jacob.exe
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\bin\Debug\PS04_Caden_Jacob.pdb
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.csproj.AssemblyReference.cache
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.csproj.SuggestedBindingRedirects.cache
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.Form1.resources
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.Properties.Resources.resources
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.csproj.GenerateResource.cache
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.csproj.CoreCompileInputs.cache
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.exe
+C:\Users\caden\OneDrive\Desktop\EGR1400\Labs\PS04_Caden_Jacob\obj\Debug\PS04_Caden_Jacob.pdb
