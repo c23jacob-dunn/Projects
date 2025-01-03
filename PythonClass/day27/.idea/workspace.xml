@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="398e7b8c-bd8d-46c0-9c96-490f4589bea0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day19/.idea/day19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day20/.idea/SnakeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22/.idea/day22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day22/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day24/.idea/day24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25/.idea/day25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20241113.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day25/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day26/.idea/day26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day26/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day26/main_old.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day26/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/day27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Other_Tkinter_Widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/capstone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../turtlecrossing/.idea/turtlecrossing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/day19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day19/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/SnakeGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day20/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ou8hn0Q969MUXjhrxUe2PU42bw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.Other_Tkinter_Widgets.executor": "Run",
+    "Python.capstone.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.playground.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\Projects\PythonClass\day27" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398e7b8c-bd8d-46c0-9c96-490f4589bea0" name="Changes" comment="" />
+      <created>1731708221900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731708221900</updated>
+    </task>
+    <servers />
+  </component>
+</project>
