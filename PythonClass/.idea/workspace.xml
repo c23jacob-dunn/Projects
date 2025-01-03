@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdab381c-9dd3-4d24-90a9-e3796ddf17d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/day22/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data_20241113.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/day19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day19/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/SnakeGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2oiN1aseV6Hl7CLJSbGRgxaIY35" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ball.executor": "Run",
+    "Python.car_manager.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/git/Projects/PythonClass/day26",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\Projects\PythonClass\day25" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdab381c-9dd3-4d24-90a9-e3796ddf17d1" name="Changes" comment="" />
+      <created>1731348221097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731348221097</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+</project>
